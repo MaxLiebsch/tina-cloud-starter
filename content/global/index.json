@@ -9,8 +9,12 @@
     "color": "default",
     "nav": [
       {
-        "href": "/",
+        "href": "home",
         "label": "Home"
+      },
+      {
+        "href": "/fit-swim",
+        "label": "Swim"
       },
       {
         "href": "/about",
